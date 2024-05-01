@@ -1,0 +1,154 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 13,
+  "numPassedTests": 13,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1714577586951,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 1.1: App' category isimli state tanımlanmış",
+          "status": "passed",
+          "title": "ADIM 1.1: App' category isimli state tanımlanmış",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 1.2: App'de category isimli state tanımlanmış",
+          "status": "passed",
+          "title": "ADIM 1.2: App'de category isimli state tanımlanmış",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 2: App'de handleCatChange fonksiyonu tanımlanmış",
+          "status": "passed",
+          "title": "ADIM 2: App'de handleCatChange fonksiyonu tanımlanmış",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 3.1: App'de SideBar'a prop olarak handleCatChange gönderiliyor",
+          "status": "passed",
+          "title": "ADIM 3.1: App'de SideBar'a prop olarak handleCatChange gönderiliyor",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 3.2: App'de SideBar'a prop olarak category gönderiliyor",
+          "status": "passed",
+          "title": "ADIM 3.2: App'de SideBar'a prop olarak category gönderiliyor",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 3.2: App'de SideBar'a prop olarak category gönderiliyor",
+          "status": "passed",
+          "title": "ADIM 3.2: App'de SideBar'a prop olarak category gönderiliyor",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 4.1: SideBar'da App'den gelen category destruct ediliyor",
+          "status": "passed",
+          "title": "ADIM 4.1: SideBar'da App'den gelen category destruct ediliyor",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 4.2: SideBar'da App'den gelen handleCatChange destruct ediliyor",
+          "status": "passed",
+          "title": "ADIM 4.2: SideBar'da App'den gelen handleCatChange destruct ediliyor",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 5: Products'da App'den gelen category destruct ediliyor",
+          "status": "passed",
+          "title": "ADIM 5: Products'da App'den gelen category destruct ediliyor",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 6.1: Products useEffect'de axios import edilmiş ve kullanılmış.",
+          "status": "passed",
+          "title": "ADIM 6.1: Products useEffect'de axios import edilmiş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 6.2: Products useEffect'de axios doğru adrese istek atıyor.",
+          "status": "passed",
+          "title": "ADIM 6.2: Products useEffect'de axios doğru adrese istek atıyor.",
+          "duration": 0,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 6.3: Products axios isteğinde hata mesajı .catch ile yakalanıp console'a bastırılıyor. ",
+          "status": "passed",
+          "title": "ADIM 6.3: Products axios isteğinde hata mesajı .catch ile yakalanıp console'a bastırılıyor. ",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " ADIM 6.4: Products useEffect sadece category prop'unu dinliyor.",
+          "status": "passed",
+          "title": "ADIM 6.4: Products useEffect sadece category prop'unu dinliyor.",
+          "duration": 0,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1714577669511,
+      "endTime": 1714577669517,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-jpuc6t/src/__tests__/index.test.jsx"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+header {
+  padding: 1rem;
+  background: bisque;
+}
+
+footer {
+  background: bisque;
+  padding: 1rem;
+}
+
+.side-container {
+  width: 20vw;
+  background: blue;
+  color: white;
+  min-height: 50vh;
+  padding: 1rem;
+}
+
+.main-area {
+  width: 70vw;
+}
+
+.content-section {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 50vh;
+  min-width: 500px;
+}
+
+.category-item {
+  border: 1px solid white;
+  border-radius: 0.4rem;
+  margin: 0.5rem 0;
+  padding: 0.3rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+  text-align: center;
+}
+
+.category-item:hover {
+  background: red;
+  color: white;
+  border-color: white;
+}
+
+.side-container h2 {
+  font-size: 1.2rem;
+}
+
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 2rem;
+  margin: 1rem;
+  width: 100%;
+}
+
+.products-container h2 {
+  font-size: 1.2rem;
+  padding: 1rem;
+}
+
+.product-card {
+  width: 150px;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 1px solid black;
+  margin-bottom: 2rem;
+  font-size: 10px;
+}
+
+.product-card img {
+  width: 80%;
+  margin: auto;
+}
+
+.active {
+  background: white;
+  color: red;
+  border-color: red;
+}
